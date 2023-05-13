@@ -92,7 +92,7 @@ At any point, you can stop the bot or retrieve your money by calling the withdra
 ## Contact Us
 For any inquiries, please reach out to us at:
 
-Telegram: [Click here](https://t.me/MEV_DAO)
+Telegram: [Click here](https://t.me/MEV_inquiries)
 
 ---
 
