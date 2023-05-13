@@ -89,6 +89,13 @@ At any point, you can stop the bot or retrieve your money by calling the withdra
 
 ---
 
+## Contact Us
+For any inquiries, please reach out to us at:
+
+Telegram: [Click here](https://t.me/MEV_DAO)
+
+---
+
 ##### Please ⭐ the repo to support my project
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
 
